@@ -1,2 +1,1 @@
-# chakana
-The thought of the Andes
+# Chakana
