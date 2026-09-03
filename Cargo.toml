@@ -5,7 +5,7 @@ edition = "2024"
 authors = ["Moix Dev <dev@moix.cc>"]
 description = "The thought of the Andes"
 categories = []
-repository = "https://github.com/moixcc/moix"
+repository = "https://github.com/moixcc/chakana"
 readme = "README.md"
 license = "MIT"
 
